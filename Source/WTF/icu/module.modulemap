@@ -1,7 +1,0 @@
-module unicode [system] {
-    umbrella "."
-
-    explicit module * {
-        export *
-    }
-}
